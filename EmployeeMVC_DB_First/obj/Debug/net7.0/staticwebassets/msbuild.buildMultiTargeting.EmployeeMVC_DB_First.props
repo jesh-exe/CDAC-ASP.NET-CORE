@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmployeeMVC_DB_First.props" />
+</Project>

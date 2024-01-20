@@ -1,0 +1,14 @@
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\bin\Debug\net7.0\AbstractExamples.exe
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\bin\Debug\net7.0\AbstractExamples.deps.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\bin\Debug\net7.0\AbstractExamples.runtimeconfig.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\bin\Debug\net7.0\AbstractExamples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\bin\Debug\net7.0\AbstractExamples.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\AbstractExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\AbstractExamples.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\AbstractExamples.AssemblyInfo.cs
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\AbstractExamples.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\AbstractExamples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\refint\AbstractExamples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\AbstractExamples.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\AbstractExamples.genruntimeconfig.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AbstractExamples\obj\Debug\net7.0\ref\AbstractExamples.dll

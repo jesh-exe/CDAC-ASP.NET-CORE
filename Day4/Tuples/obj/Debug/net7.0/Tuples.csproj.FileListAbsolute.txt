@@ -1,0 +1,15 @@
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\bin\Debug\net7.0\Tuples.exe
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\bin\Debug\net7.0\Tuples.deps.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\bin\Debug\net7.0\Tuples.runtimeconfig.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\bin\Debug\net7.0\Tuples.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\bin\Debug\net7.0\Tuples.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.csproj.AssemblyReference.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.AssemblyInfoInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.AssemblyInfo.cs
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.csproj.CoreCompileInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\refint\Tuples.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\Tuples.genruntimeconfig.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Tuples\obj\Debug\net7.0\ref\Tuples.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t6QBkr/t2kTChAPoAS9hs3SsjurrO5hGof/tKEEnlWE=",
+  "Source": "ProductManagementWebAPI",
+  "BasePath": "_content/ProductManagementWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

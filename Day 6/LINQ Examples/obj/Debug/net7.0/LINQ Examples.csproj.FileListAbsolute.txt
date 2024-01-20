@@ -1,0 +1,14 @@
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\bin\Debug\net7.0\LINQ Examples.exe
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\bin\Debug\net7.0\LINQ Examples.deps.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\bin\Debug\net7.0\LINQ Examples.runtimeconfig.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\bin\Debug\net7.0\LINQ Examples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\bin\Debug\net7.0\LINQ Examples.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\LINQ Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\LINQ Examples.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\LINQ Examples.AssemblyInfo.cs
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\LINQ Examples.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\LINQ Examples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\refint\LINQ Examples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\LINQ Examples.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\LINQ Examples.genruntimeconfig.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 6\LINQ Examples\obj\Debug\net7.0\ref\LINQ Examples.dll

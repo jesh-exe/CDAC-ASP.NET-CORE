@@ -1,0 +1,29 @@
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\bin\Debug\net7.0\Delegates.exe
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\bin\Debug\net7.0\Delegates.deps.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\bin\Debug\net7.0\Delegates.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\bin\Debug\net7.0\Delegates.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\Delegates\obj\Debug\net7.0\ref\Delegates.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\Delegates.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\Delegates.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\bin\Debug\net7.0\Delegates.exe
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\bin\Debug\net7.0\Delegates.deps.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\bin\Debug\net7.0\Delegates.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\bin\Debug\net7.0\Delegates.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day4\Delegates\obj\Debug\net7.0\ref\Delegates.dll

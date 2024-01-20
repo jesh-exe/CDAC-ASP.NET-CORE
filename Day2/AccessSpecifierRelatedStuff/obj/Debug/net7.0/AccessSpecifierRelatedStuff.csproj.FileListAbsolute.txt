@@ -1,0 +1,14 @@
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\bin\Debug\net7.0\AccessSpecifierRelatedStuff.exe
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\bin\Debug\net7.0\AccessSpecifierRelatedStuff.deps.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\bin\Debug\net7.0\AccessSpecifierRelatedStuff.runtimeconfig.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\bin\Debug\net7.0\AccessSpecifierRelatedStuff.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\bin\Debug\net7.0\AccessSpecifierRelatedStuff.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\AccessSpecifierRelatedStuff.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\AccessSpecifierRelatedStuff.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\AccessSpecifierRelatedStuff.AssemblyInfo.cs
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\AccessSpecifierRelatedStuff.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\AccessSpecifierRelatedStuff.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\refint\AccessSpecifierRelatedStuff.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\AccessSpecifierRelatedStuff.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\AccessSpecifierRelatedStuff.genruntimeconfig.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\AccessSpecifierRelatedStuff\obj\Debug\net7.0\ref\AccessSpecifierRelatedStuff.dll

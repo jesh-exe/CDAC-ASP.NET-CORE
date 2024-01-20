@@ -1,0 +1,22 @@
+﻿
+
+
+@{
+    //This is the Code for C#, written un @{} block
+    //Variables declared here are accessible in every block of this current View Layer
+    string name = "Jayesh";     //Declared the Variable
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome @name <!--Accessing the variable name declared above--></h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@{
+    <div style="text-align:center" >This is the Code from the Razor C# Block 
+           and this the variable declared above @name ans this the object received by
+           View Bag : @ViewBag.sendString
+        </div>
+}

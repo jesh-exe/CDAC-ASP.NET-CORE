@@ -1,0 +1,14 @@
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\bin\Debug\net7.0\FileHandling.exe
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\bin\Debug\net7.0\FileHandling.deps.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\bin\Debug\net7.0\FileHandling.runtimeconfig.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\bin\Debug\net7.0\FileHandling.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\bin\Debug\net7.0\FileHandling.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfo.cs
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\FileHandling.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\refint\FileHandling.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\FileHandling.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\FileHandling.genruntimeconfig.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 8\FileHandling\obj\Debug\net7.0\ref\FileHandling.dll

@@ -1,0 +1,29 @@
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.exe
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.deps.json
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.runtimeconfig.json
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.dll
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.pdb
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.csproj.AssemblyReference.cache
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.GeneratedMSBuildEditorConfig.editorconfig
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.AssemblyInfoInputs.cache
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.AssemblyInfo.cs
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.csproj.CoreCompileInputs.cache
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.dll
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\refint\LanguageFeatures.dll
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.pdb
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.genruntimeconfig.cache
+E:\B1\.NET\LabWork\Day 5\LanguageFeatures\obj\Debug\net7.0\ref\LanguageFeatures.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.exe
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.deps.json
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.runtimeconfig.json
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\bin\Debug\net7.0\LanguageFeatures.pdb
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.AssemblyInfo.cs
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\refint\LanguageFeatures.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.pdb
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\LanguageFeatures.genruntimeconfig.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\LanguageFeatures\obj\Debug\net7.0\ref\LanguageFeatures.dll

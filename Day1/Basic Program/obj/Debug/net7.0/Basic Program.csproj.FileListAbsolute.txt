@@ -1,0 +1,14 @@
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\bin\Debug\net7.0\Basic Program.exe
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\bin\Debug\net7.0\Basic Program.deps.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\bin\Debug\net7.0\Basic Program.runtimeconfig.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\bin\Debug\net7.0\Basic Program.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\bin\Debug\net7.0\Basic Program.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\Basic Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\Basic Program.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\Basic Program.AssemblyInfo.cs
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\Basic Program.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\Basic Program.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\refint\Basic Program.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\Basic Program.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\Basic Program.genruntimeconfig.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day1\Basic Program\obj\Debug\net7.0\ref\Basic Program.dll

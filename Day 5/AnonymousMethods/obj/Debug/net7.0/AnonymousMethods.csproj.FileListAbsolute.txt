@@ -1,0 +1,29 @@
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.exe
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.deps.json
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.runtimeconfig.json
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.dll
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.pdb
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.csproj.AssemblyReference.cache
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.AssemblyInfoInputs.cache
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.AssemblyInfo.cs
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.dll
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\refint\AnonymousMethods.dll
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.pdb
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.genruntimeconfig.cache
+E:\B1\.NET\LabWork\Day 5\AnonymousMethods\obj\Debug\net7.0\ref\AnonymousMethods.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.exe
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.deps.json
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.runtimeconfig.json
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.pdb
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.AssemblyInfo.cs
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\refint\AnonymousMethods.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.pdb
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.genruntimeconfig.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day 5\AnonymousMethods\obj\Debug\net7.0\ref\AnonymousMethods.dll

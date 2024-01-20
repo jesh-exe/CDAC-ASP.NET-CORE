@@ -1,0 +1,43 @@
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.exe
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.deps.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.runtimeconfig.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.csproj.AssemblyReference.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfoInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfo.cs
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.csproj.CoreCompileInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\refint\InheritanceExamples.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.genruntimeconfig.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day2\InheritanceExamples\obj\Debug\net7.0\ref\InheritanceExamples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.exe
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.deps.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.runtimeconfig.json
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfo.cs
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\refint\InheritanceExamples.dll
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.pdb
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.genruntimeconfig.cache
+D:\2.CDAC ACTS\.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\ref\InheritanceExamples.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.exe
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.deps.json
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.runtimeconfig.json
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.pdb
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfoInputs.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfo.cs
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.csproj.CoreCompileInputs.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\refint\InheritanceExamples.dll
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.pdb
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.genruntimeconfig.cache
+D:\2.CDAC ACTS\ASP.NET Core-C# - Vikram Sulakhe\Lab\Class Work\Day2\InheritanceExamples\obj\Debug\net7.0\ref\InheritanceExamples.dll

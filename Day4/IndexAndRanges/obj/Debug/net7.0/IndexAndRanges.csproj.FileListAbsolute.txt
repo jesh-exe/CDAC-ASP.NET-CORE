@@ -1,0 +1,15 @@
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\bin\Debug\net7.0\IndexAndRanges.exe
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\bin\Debug\net7.0\IndexAndRanges.deps.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\bin\Debug\net7.0\IndexAndRanges.runtimeconfig.json
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\bin\Debug\net7.0\IndexAndRanges.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\bin\Debug\net7.0\IndexAndRanges.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.csproj.AssemblyReference.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.AssemblyInfoInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.AssemblyInfo.cs
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.csproj.CoreCompileInputs.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\refint\IndexAndRanges.dll
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.pdb
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\IndexAndRanges.genruntimeconfig.cache
+D:\DAC-81-JayeshMurodiya\.NET - Vikram Sulakhe\Class Practice\Day4\IndexAndRanges\obj\Debug\net7.0\ref\IndexAndRanges.dll
